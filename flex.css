@@ -1,0 +1,37 @@
+.kotak {
+    padding: 100px;
+    background: greenyellow ;
+    color:red ;
+    border: 1px solid black ;
+    width: 0;
+    font-size: 30px;
+    display: flex;
+    height: 0;
+}
+
+.rizki {
+    display: flex;
+    /* untuk ngatur jarak */
+    gap: 20px;
+    /* row column row reverse column reverse */
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* space between evenly dan around buat jarak */
+    justify-content: center;
+    height: 500px;
+    border: 1px solid red ;
+    align-items: center;
+}
+
+.k1 {
+    order: 1;
+}
+
+.k2 {
+    order: 3;
+}
+
+.k3 {
+    order: 2;
+}
+

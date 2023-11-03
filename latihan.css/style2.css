@@ -1,0 +1,48 @@
+.kotak {
+    width: 100%;
+    height: 130px;
+    background-color: blue;
+}
+p {
+    color: white;
+    text-align: center;
+    line-height:130px ;
+    font-size:50px ;
+}
+
+.brown {
+    background-color: brown;
+    width: 65%;
+    height: 345px;
+    float: left;
+
+}
+
+.p {
+    line-height: 300px;
+    font-size: 50px;
+}
+
+.Aside {
+    background-color: lime;
+    width: 35%;
+    height: 345px;
+    float: right;
+}
+
+.p1 {
+    line-height: 300px;
+    font-size: 50px;
+}
+
+.Footer {
+    background-color: red;
+    width: 100%;
+    height: 150px;
+    float: left;
+}
+
+.p2 {
+    line-height: 70px;
+    font-size: 50px;
+}
